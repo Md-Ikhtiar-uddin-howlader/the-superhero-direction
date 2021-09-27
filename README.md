@@ -1,6 +1,6 @@
 # Donate For Climate Changing
 
-This project was bootstrapped with [Create React App](https://mystifying-montalcini-884619.netlify.app/).
+click here for my live website(https://mystifying-montalcini-884619.netlify.app/).
 
 
 ## you can donate for climate change
