@@ -1,6 +1,6 @@
 # Donate For Climate Changing
 
-click here for my live website [live website](https://mystifying-montalcini-884619.netlify.app/).
+For live website [click here](https://mystifying-montalcini-884619.netlify.app/).
 
 
 ## you can donate for climate change
